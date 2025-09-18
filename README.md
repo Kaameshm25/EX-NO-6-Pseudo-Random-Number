@@ -11,7 +11,6 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
